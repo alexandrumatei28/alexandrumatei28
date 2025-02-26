@@ -24,7 +24,7 @@
 <Br>
 <p align="center">
   <a href="https://www.linkedin.com/in/alexandru-matei-3456bb2b8/" target="_blank"><img src="https://img.shields.io/badge/Alexandru%20Matei-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:alexandrumatei417286@gmail.com" target="_blank"><img src="https://img.shields.io/badge/alexandrumatei417@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:alexandrumatei417@gmail.com" target="_blank"><img src="https://img.shields.io/badge/alexandrumatei417@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 
